@@ -2,6 +2,8 @@
  
 Dieselpunk Desktop Drive Storage widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux with Wine.
 
+![panzer_battery_gauge_xwidget](https://github.com/yereverluvinunclebert/Panzer-Tank-Drive-Gauge-Xwidget/assets/2788342/4bf877c9-5d40-4282-8de9-c2cd3986e1f2)
+
 This Panzer widget is an attractive dieselpunk Xwidget for your desktop. It is a simple drive storage gauge. It can handle A or B floppy drives if they exist as well as hard drives. Responds quickly to controls and a fix to calculate the drive capacity measurements. Functional and gorgeous at the same time. This Widget is a moveable widget that you can move anywhere around the desktop as you require.
 
 I created for the World of Tanks and War Thunder communities. The graphics are my own, I took original inspiration from a clock face by Italo Fortana.
