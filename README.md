@@ -16,23 +16,25 @@ The widget can be resized - Hover the cursor over the widget. Press the CTRL key
 
 Right clicking will bring up a menu of options. Double-clicking on the widget will cause a personalised Windows application to fire up. The first time you run it there will be no assigned function and so it will state as such and then pop up the preferences so that you can enter the command of your choice. The widget takes command line-style commands for windows.
 
+![panzer-clock-help](https://github.com/yereverluvinunclebert/Panzer-Tank-Drive-Gauge-Xwidget/assets/2788342/ddaa1a3b-216f-4535-a4fe-90c63feb703c)
+
 This widget is a virtual duplicate of the Yahoo widget Panzer storage widget that 
 you can find here: https://github.com/yereverluvinunclebert/Panzer-Storage-Gauge-Ywidget
 The graphic interface and operation of the two types of widgets are the same. The 
 only differences are the configuration preference utility (this has a cut-down 
 version), the language is Micrososoft's JScript (rather than javascript) and it is the Xwidget engine that is utilised to put the widget on your screen.
 
-![panzer-clock-help](https://github.com/yereverluvinunclebert/Panzer-Tank-Drive-Gauge-Xwidget/assets/2788342/ddaa1a3b-216f-4535-a4fe-90c63feb703c)
+![xwidget-title2](https://github.com/yereverluvinunclebert/Panzer-Tank-Drive-Gauge-Xwidget/assets/2788342/aa3bf4ad-1cd3-456d-baf3-db624ed74c79)
 
 This widget is uploaded here for historical archival reasons. I suggest that you 
 use the Yahoo widget version as it is a superior engine for developing widgets. 
 I will provide bugfixes for the Yahoo widget version but NOT for Xwidgets.
 
-![xwidget-title](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/f9eec60b-1cd2-4f75-ac64-45d60a8c5c6d)
-
 All Jscript widgets need an engine to function, in this case the widget uses 
 the XWidget engine. The engine interprets the Jscript and creates the widget 
 according to the XML description and using the images you provide. 
+
+![xwidget-title](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/f9eec60b-1cd2-4f75-ac64-45d60a8c5c6d)
 
 Built using: 
 
