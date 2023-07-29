@@ -8,17 +8,19 @@ I created for the World of Tanks and War Thunder communities. The graphics are m
 
 To find out how the widget operates, simply right click and select Help and a full explanation of all the buttons, windows is shown. The top left window is the current power in digital form. Hovering over any control should supply a pop-up explaining each function.
 
+![dock](https://github.com/yereverluvinunclebert/Panzer-Tank-Drive-Gauge-Xwidget/assets/2788342/1052ce61-e05a-44a0-a5c0-3f7f67473610)
+
 The widget can be resized - Hover the cursor over the widget. Press the CTRL key and use your mousewheel up or down. The widget will resize dynamically.
 
 Right clicking will bring up a menu of options. Double-clicking on the widget will cause a personalised Windows application to fire up. The first time you run it there will be no assigned function and so it will state as such and then pop up the preferences so that you can enter the command of your choice. The widget takes command line-style commands for windows.
 
-This widget is a virtual duplicate of the Yahoo widget Panzer battery widget that 
-you can find here: https://github.com/yereverluvinunclebert/Panzer-battery-gauge-Ywidget
+This widget is a virtual duplicate of the Yahoo widget Panzer storage widget that 
+you can find here: https://github.com/yereverluvinunclebert/Panzer-Storage-Gauge-Ywidget
 The graphic interface and operation of the two types of widgets are the same. The 
 only differences are the configuration preference utility (this has a cut-down 
 version), the language is Micrososoft's JScript (rather than javascript) and it is the Xwidget engine that is utilised to put the widget on your screen.
 
-![panzer-battery-help-500](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/fc1cb570-b610-4ba6-b430-59e2ec35d84f)
+![panzer-clock-help](https://github.com/yereverluvinunclebert/Panzer-Tank-Drive-Gauge-Xwidget/assets/2788342/ddaa1a3b-216f-4535-a4fe-90c63feb703c)
 
 This widget is uploaded here for historical archival reasons. I suggest that you 
 use the Yahoo widget version as it is a superior engine for developing widgets. 
@@ -58,7 +60,7 @@ Running the widget using a Jscript engine frees Javascript from running only
 within the captivity of a browser o, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
- ![panzer-battery-icon](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/c02d8cd9-c4ba-40b6-bf5a-463759cdf189)
+![Icon](https://github.com/yereverluvinunclebert/Panzer-Tank-Drive-Gauge-Xwidget/assets/2788342/a1bf26a0-b039-4723-a0fd-8dc485a82f46)
 
 Instructions for running XWidgets on Windows
 =================================================
@@ -68,8 +70,7 @@ Instructions for running XWidgets on Windows
 3. Unzip it
 4. Double-click on the resulting .XUL file and it will install and run
 
-![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Battery-Gauge-Xwidget/assets/2788342/b41907bb-2bc2-4b0c-b829-78dcd5a8fd85)
-
+![about](https://github.com/yereverluvinunclebert/Panzer-Tank-Drive-Gauge-Xwidget/assets/2788342/804ae2d5-30f0-44d6-ba17-7245bb267da4)
 
 LICENCE AGREEMENTS:
 
