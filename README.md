@@ -1,4 +1,6 @@
 # Panzer Tank-Drive-Gauge Xwidget
+
+This widget is now deprecated and is retained for historical reasons only, it still works but time moves ever onward - please use the VB6 version instead that you will find here: https://github.com/yereverluvinunclebert/Panzer-Storage-Gauge-VB6
  
 Dieselpunk Desktop Drive Storage widget, written in Jscript for the XWidget Engine. Created for XP, Vista, Win7, 8, 10+ as well as the Apple Mac/Linux with Wine.
 
